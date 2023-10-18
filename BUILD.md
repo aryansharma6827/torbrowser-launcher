@@ -29,3 +29,5 @@ sudo yum install dist/torbrowser-launcher-*.rpm
 
 Install the dependencies: sadly, not all of them are available in virtualenv, so you will need to install (some of) them system-wide.
 Then, you can run: `TBL_SHARE=share ./torbrowser-launcher`
+
+<!-- i cloned this  -->
